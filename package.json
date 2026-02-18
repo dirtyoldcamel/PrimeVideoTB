@@ -1,5 +1,5 @@
 {
-  "name": "@dchwilk/primevideotb",
+  "name": "@dirtyoldcamel/primevideotb",
   "appName": "PrimeVideoTB",
   "version": "1.0.1",
   "description": "Amazon Prime Video app with enhanced features and ad blocking",
@@ -18,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/dchwilk/PrimeVideoTB"
+    "url": "https://github.com/dirtyoldcamel/PrimeVideoTB"
   },
   "license": "GPL-3.0-only"
 }
