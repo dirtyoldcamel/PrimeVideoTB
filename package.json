@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "description": "Amazon Prime Video app with enhanced features and ad blocking",
   "packageType": "mods",
-  "websiteURL": "https://www.amazon.de/Amazon-Video",
+  "websiteURL": "https://www.primevideo.com",
   "main": "scripts/userScript.js",
   "author": "Ygreck",
   "keys": [
